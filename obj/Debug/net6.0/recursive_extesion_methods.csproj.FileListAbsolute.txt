@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\bin\Debug\net6.0\recursive_extesion_methods.exe
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\bin\Debug\net6.0\recursive_extesion_methods.deps.json
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\bin\Debug\net6.0\recursive_extesion_methods.runtimeconfig.json
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\bin\Debug\net6.0\recursive_extesion_methods.dll
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\bin\Debug\net6.0\recursive_extesion_methods.pdb
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\recursive_extesion_methods.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\recursive_extesion_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\recursive_extesion_methods.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\recursive_extesion_methods.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\recursive_extesion_methods.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\recursive_extesion_methods.dll
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\refint\recursive_extesion_methods.dll
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\recursive_extesion_methods.pdb
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\recursive_extesion_methods.genruntimeconfig.cache
+C:\Users\Metehan\Desktop\Pratikler\recursive_extesion_methods\obj\Debug\net6.0\ref\recursive_extesion_methods.dll
